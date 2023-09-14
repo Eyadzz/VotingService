@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X/J2xfY3qQvGCX+3ob1lvBDAWz6dKHB/G8r9A+zFHko=",
+  "Source": "VotingService",
+  "BasePath": "_content/VotingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
